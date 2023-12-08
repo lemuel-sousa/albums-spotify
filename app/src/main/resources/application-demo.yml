@@ -1,0 +1,4 @@
+spotify:
+  login:
+    client-id: ${SPOTIFY_CLIENT_ID}
+    client-secret: ${SPOTIFY_CLIENT_SECRET}
